@@ -1,2 +1,2 @@
-# WhereAmI
+# MapMyWorld
 Robot
